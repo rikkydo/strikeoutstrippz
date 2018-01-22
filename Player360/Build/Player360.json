@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Player360.data.unityweb",
+"asmCodeUrl": "Player360.asm.code.unityweb",
+"asmMemoryUrl": "Player360.asm.memory.unityweb",
+"asmFrameworkUrl": "Player360.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
